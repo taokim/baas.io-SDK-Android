@@ -1,0 +1,9 @@
+[submodule "usergrid-java-sdk"]
+	path = usergrid-java-sdk
+	url = https://github.com/kthcorp/usergrid-java-sdk
+[submodule "usergrid-android-sdk"]
+	path = usergrid-android-sdk
+	url = https://github.com/kthcorp/usergrid-android-sdk
+[submodule "kth-Commonlib-Android"]
+	path = kth-Commonlib-Android
+	url = https://github.com/kthcorp/kth-Commonlib-Android
