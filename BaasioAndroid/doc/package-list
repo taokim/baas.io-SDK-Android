@@ -1,0 +1,15 @@
+com.kth.baasio
+com.kth.baasio.auth
+com.kth.baasio.callback
+com.kth.baasio.gcm
+com.kth.baasio.gcm.callback
+com.kth.baasio.preferences
+com.kth.baasio.ssl
+org.usergrid.android.client
+org.usergrid.android.client.callbacks
+org.usergrid.android.client.utils
+org.usergrid.java.client
+org.usergrid.java.client.entities
+org.usergrid.java.client.exception
+org.usergrid.java.client.response
+org.usergrid.java.client.utils
